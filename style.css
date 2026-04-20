@@ -1,0 +1,17 @@
+ body {
+            background-color: orange; /* Mantengo tu color naranja */
+            padding: 20px;
+        }
+        .profile-img {
+            width: 200px;
+            height: 200px;
+            object-fit: cover;
+            border-radius: 50%; /* Imagen circular */
+            border: 5px solid white;
+            margin-bottom: 20px;
+        }
+        .card {
+            border-radius: 15px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            margin-bottom: 20px;
+        }
